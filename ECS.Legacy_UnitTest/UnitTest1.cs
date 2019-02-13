@@ -1,5 +1,8 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
+using ECS;
+using NUnit.Framework;
 
 namespace ECS.Legacy_UnitTest
 {
